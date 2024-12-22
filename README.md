@@ -75,4 +75,6 @@ This project is open-source and available under the [MIT License](https://openso
 ---
 
 **Enjoy building and organizing your tasks!**
+![Screenshot (12)](https://github.com/user-attachments/assets/fe976e38-2245-4d45-9216-4d4112cb2da3)
+
 
